@@ -5,7 +5,7 @@ This project automates the process of reading sales data from multiple Excel fil
 
 ## Project Overview
 
-You are automating the process of reading, processing, and visualizing sales data from multiple Excel files. The script performs the following key tasks:
+I am automating the process of reading, processing, and visualizing sales data from multiple Excel files. The script performs the following key tasks:
 
 1. **Data Collection**: It processes `.xlsx` files from the `reports/raw` directory, extracts data from the "Overview" sheet in each file, and appends it to a summary workbook.
 2. **Data Aggregation**: The sales data is grouped by country, and the total sales are calculated for each country.
@@ -14,7 +14,7 @@ You are automating the process of reading, processing, and visualizing sales dat
 
 ## Requirements
 
-Before you start, ensure that you have the following installed:
+Before we start, ensure that we have the following installed:
 
 - **Python 3.x**
 - **pandas**: Used for data manipulation.
